@@ -1,0 +1,8 @@
+1 | John | Doe | 10
+2 | Alice | Smith | 20
+3 | Bob | Johnson | 14
+4 | Emily | Williams | 50
+5 | Michael | Brown | 37
+6 | Dari | Strimbi | 21
+7 | Michelle | Obama | 43
+8 | Simona | Halep | 31
